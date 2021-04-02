@@ -1,0 +1,13 @@
+name: coffee_ratings
+title: coffee_ratings
+username:
+account: crtut13
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3900752
+bundleId: 4422796
+url: https://crtut13.shinyapps.io/coffee_ratings/
+when: 1617331129.18721
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Untitled.R
