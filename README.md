@@ -1,2 +1,2 @@
 # coffee_shiny_app
-building my shiny app on coffee ratings
+Find my Shiny app on world coffee ratings here: https://crtut13.shinyapps.io/coffee_ratings/
